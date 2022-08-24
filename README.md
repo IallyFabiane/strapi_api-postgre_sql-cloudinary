@@ -1,5 +1,14 @@
 <h1>API REST with Strapi</h1>
 
+<div align="center">
+<div style="display: inline_block"><br>
+  <img align="center" alt="s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img align="center" alt="Strapi" height="30" width="40" src="https://notum.cz/wp-content/uploads/2022/06/5f6fd5bb-6075-4f30-bd6b-379298cc8447.png" />
+ <img align="center" alt="Cloudinary" height="30" width="40" src="https://api.nuget.org/v3-flatcontainer/cloudinary.core/1.31.0/icon"  /> 
+ <img align="center" alt="ElephantSql" height="30" width="40" src="https://www.elephantsql.com/images/postgresql-as-a-service-elephantsql.png" />
+ </div>
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
