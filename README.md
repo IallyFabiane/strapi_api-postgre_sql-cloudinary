@@ -6,6 +6,7 @@
  <img align="center" alt="Postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
  <img align="center" alt="Strapi" height="50" width="80" src="https://notum.cz/wp-content/uploads/2022/06/5f6fd5bb-6075-4f30-bd6b-379298cc8447.png" />
  <img align="center" alt="Cloudinary" height="40" width="50" src="https://api.nuget.org/v3-flatcontainer/cloudinary.core/1.31.0/icon"  /> 
+  <img align="center" alt="Heroku" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
  </div>
 
 # 🚀 Getting started with Strapi
